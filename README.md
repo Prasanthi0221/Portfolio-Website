@@ -1,2 +1,2 @@
 # Portfolio-Website
- https://prasanthi0221.github.io/Portfolio-Website/ tapt here to preview of my project
+ https://github.com/Prasanthi0221/Portfolio-Website.git/ tapt here to preview of my project
